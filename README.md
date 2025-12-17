@@ -25,8 +25,6 @@ According to the course project instructions, this work demonstrates:
 
 ## 2. Repository Structure
 
-```text
-.
 ├── Investigation of Social Engineering Attacks (Call, Email, SMS) Using Machine Learning.ipynb
 ├── channel_model_summary.csv          # Summary of model metrics per channel
 ├── spam.csv                           # SMS spam / ham dataset (Kaggle)
