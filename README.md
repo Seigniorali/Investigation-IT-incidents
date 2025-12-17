@@ -33,6 +33,4 @@ According to the course project instructions, this work demonstrates:
 ├── spam.csv                           # SMS spam / ham dataset (Kaggle)
 ├── CEAS_08.csv                        # Email phishing dataset (Kaggle)
 ├── call_log.csv                       # Synthetic phone scam / normal call dataset
-├── report/                            # Optional folder for final written report
-│   └── Investigation_of_Social_Engineering_Attacks_Report.docx
 └── README.md
