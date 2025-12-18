@@ -29,7 +29,7 @@ According to the course project instructions, this work demonstrates:
 ├── CEAS_08.csv                        # Email phishing dataset (Kaggle)
 ├── call_log.csv                       # Synthetic phone scam / normal call dataset
 ├── report/                            # Optional folder for final written report
-│   └── Investigation_of_Social_Engineering_Attacks_Report.docx
+└──Investigation_of_Social_Engineering_Attacks_Report.docx
 └── Investigation_of_Social_Engineering_Attacks_Report.pptx
 └── README.md
 
