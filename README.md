@@ -21,15 +21,16 @@ According to the course project instructions, this work demonstrates:
 3. Application of **ML models** to detect social engineering attempts.  
 4. Basic **exploratory data analysis (EDA)**, experiment design, and result interpretation.  
 
----
-
-## 2. Repository Structure
-
+```text
+.
 ├── Investigation of Social Engineering Attacks (Call, Email, SMS) Using Machine Learning.ipynb
 ├── channel_model_summary.csv          # Summary of model metrics per channel
 ├── spam.csv                           # SMS spam / ham dataset (Kaggle)
 ├── CEAS_08.csv                        # Email phishing dataset (Kaggle)
 ├── call_log.csv                       # Synthetic phone scam / normal call dataset
+├── report/                            # Optional folder for final written report
+│   └── Investigation_of_Social_Engineering_Attacks_Report.docx
+└── Investigation_of_Social_Engineering_Attacks_Report.pptx
 └── README.md
 
 3. Datasets
